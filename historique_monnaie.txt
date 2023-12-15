@@ -1,0 +1,4 @@
+[{'Montant choisi': 10.0, 'Devise de depart': 'EUR', "Devise d'arrivee": 'GBP', 'Resultat': 8.7155}]
+
+[{'Montant choisi': 10.0, 'Devise de depart': 'EUR', "Devise d'arrivee": 'GBP', 'Resultat': 8.7155}]
+
